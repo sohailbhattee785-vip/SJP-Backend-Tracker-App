@@ -33,4 +33,4 @@ uses: actions/checkout@v4
     with:
       name: SJP-Backend-Tracker-APK
       path: app/build/outputs/apk/debug/app-debug.apk
-      if-no-files-found: error
+      if-no-files-found: error 
